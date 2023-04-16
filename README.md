@@ -4,7 +4,9 @@ A credit card transactions dataset containing nearly 26k rows and 7 columns
 dataset link - https://www.kaggle.com/datasets/thedevastator/analyzing-credit-card-spending-habits-in-india
 
 Few questions answered as part of the project are:
-1- write a query to print top 5 cities with highest spends and their percentage contribution of total credit card spends 
+
+1- write a query to print top 5 cities with highest spends and their percentage contribution of total credit card spends
+
 2- write a query to print highest spend month and amount spent in that month for each card type
 3- write a query to print the transaction details(all columns from the table) for each card type when
 it reaches a cumulative of 1000000 total spends(We should have 4 rows in the o/p one for each card type)
